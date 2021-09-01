@@ -1,0 +1,24 @@
+# SDS list cfg
+//0-W3A-1 [7.0E]
+//1-W3A Africa   [7.0E]
+//2-AM22 [53.0E]
+//3-HS-M.E. [39.0E] 
+//4-NSS6 [95.0E]
+//5-Eutelsat5West[5.0W]
+//6-INTELSAT [1.0W]
+//7-Eutelsat 8 [8.0W]
+//8-ExpressA[14.0W]
+//9-Yahsat 1A [52.5E]
+//10-Amazonas_2 [61.0W]
+//11-SES4 [22.0W]
+//12-Eutelsat 21B [21.6E]
+//13-INTEL23 [53.0W]
+//14-HISPSAT_2 [30.0W]
+//15-Eutelsat [12.5W]
+//16-Amazonas [61.0W]
+//17-HISPSAT_3 [30.0W]
+//18-SES4_2 [22.0W]
+//example like below:
+#14W
+S:4 3460 11487 2744 H 646
+
